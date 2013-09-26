@@ -5,7 +5,7 @@ Open source gun shot detection.
 
 ## Background
 
-My family lives in a distressed neighborhood. We live there intentionally and don't want to move. I am increasingly sick of waking up in the middle of the night to gunfire, taking my family to a back room and calling the cops. An officer is sent to check things out nothing ever happens. Some cities has purchased expensive software to trianglate gun shot locations and notifiy police. The effectiveness of this has been questioned because of false positives and lack of cameras to get leads. There doesn't seem to be an open source software/hardware solution that small communties or just a group of neighbors could cheaply implement and manage themselves.
+My family lives in a distressed neighborhood. We live there intentionally and don't want to move. I am increasingly sick of waking up in the middle of the night to gunfire, taking my family to a back room and calling the cops. An officer is sent to check things out nothing ever happens. Some cities have purchased expensive software to trianglate gun shot locations and notifiy police. The effectiveness of this has been questioned because of false positives and lack of cameras to get leads. There doesn't seem to be an open source software/hardware solution that small communties or just a group of neighbors could cheaply implement and manage themselves.
 
 ## Goals
 
