@@ -1,7 +1,7 @@
 ShotTracker
 ===========
 
-Open source gun shot detection.
+Open source gun shot detection and localization.
 
 ## Background
 
