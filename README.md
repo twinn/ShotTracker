@@ -10,7 +10,6 @@ My family lives in a distressed neighborhood. We live there intentionally and do
 ## Goals
 
 - Detect a Gun shot event.
-- Take series of pictures in the direction of the shot for a sensable duration of time.
 - Post data to webservice that could then triangulate location based other devices reporting in your area and push out notifications.
 
 ## Contributing
